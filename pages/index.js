@@ -1,6 +1,9 @@
 function Home() {
     return (
-    <h1>Eu odeio o departamento de logistica da rental!!</h1>
+        <div>
+            <h2>Me segue no <a href="https://github.com/guilhermyrodrigues">GITHUB</a></h2>
+        </div>
+        
     )
 }
 
